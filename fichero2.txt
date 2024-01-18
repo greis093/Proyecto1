@@ -1,1 +1,2 @@
 Este es el fichero número 2
+Esta es la segunda linea del fichero número 2
